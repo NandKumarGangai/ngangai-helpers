@@ -1,6 +1,6 @@
 # ngangai-helpers
 
-## generatetests.js
+## File: generate-unit-tests.js
 
 /**
  * This command line utility will help generate unit test case files in existing project.
